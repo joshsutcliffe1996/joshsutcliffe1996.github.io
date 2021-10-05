@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'joshsutcliffe'
+  disqus_shortname: 'https-joshsutcliffe1996-github-io'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-288709602-1'
