@@ -12,3 +12,7 @@ image: motorsport.jpg
 ## Let's look at the facts
 
 Essentially...
+
+*Including an image...*
+
+![alt text](https://joshsutcliffe1996.github.io/assets/img/amfoot.jpg)
